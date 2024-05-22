@@ -1,0 +1,84 @@
+/* Import font-face untuk Dancing */
+@font-face {
+  font-family: "Dancing";
+  src: url("/fonts/DancingScript-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Staatliches */
+@font-face {
+  font-family: "Staatliches";
+  src: url("/fonts/Staatliches-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Pattaya */
+@font-face {
+  font-family: "Pattaya";
+  src: url("/fonts/Pattaya-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Sriracha */
+@font-face {
+  font-family: "Sriracha";
+  src: url("/fonts/Sriracha-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Praise */
+@font-face {
+  font-family: "Praise";
+  src: url("/fonts/Praise-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Great */
+@font-face {
+  font-family: "Great";
+  src: url("/fonts/GreatVibes-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Yellowtail */
+@font-face {
+  font-family: "Yellowtail";
+  src: url("/fonts/Yellowtail-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Poppins */
+@font-face {
+  font-family: "Poppins";
+  src: url("/fonts/Poppins-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Stalemate */
+@font-face {
+  font-family: "Stalemate";
+  src: url("/fonts/Stalemate-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import font-face untuk Recursive */
+@font-face {
+  font-family: "Recursive";
+  src: url("/fonts/Recursive-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Deklarasi Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
